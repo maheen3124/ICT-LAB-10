@@ -8,7 +8,7 @@
 .Navbar 
 {
   overflow: hidden;
-  background-color: #7d3232;
+  background-color: #4a2803;
 }
 
 .Navbar a 
@@ -49,7 +49,7 @@ body
 h1
 {
    font-family: "Lucida Console", "Courier New", monospace;
-   font-size: 40px;
+   font-size: 50px;
    color: #4659b0;
    margin: auto;
    width: 50%;
@@ -58,8 +58,8 @@ h1
 
 .p1
 {
-   font-family: Arial, sans-serif;
-    font-size: 25px;
+   font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
     color: #421f8e;
     background-color: #b4caed;
     border-style: double;
@@ -71,7 +71,7 @@ h1
 h2
 {
    font-family: "Lucida Console", "Courier New", monospace;
-   font-size: 40px;
+   font-size: 50px;
    color: #4e6e04;
    margin: auto;
    width: 50%;
@@ -80,8 +80,8 @@ h2
 
 .p2
 {
-   font-family: Arial, sans-serif;
-    font-size: 20px;
+   font-family: "Times New Roman", Times, serif;
+    font-size: 30px;
     color: #9cab15;
     border-style: solid;
     margin: auto;
@@ -92,7 +92,7 @@ h2
 h3
 {
    font-family: "Lucida Console", "Courier New", monospace;
-   font-size: 40px;
+   font-size: 50px;
    color: #ab6015;
    margin: auto;
    width: 50%;
@@ -101,8 +101,8 @@ h3
 
 .p3
 {
-   font-family: Arial, sans-serif;
-    font-size: 20px;
+   font-family: "Times New Roman", Times, serif;
+    font-size: 50px;
     color: #ab8815;
     border-style: solid;
     margin: auto;
