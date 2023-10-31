@@ -1,0 +1,112 @@
+.heading 
+{
+  background-color: #f1f1f1;
+  padding: 20px;
+  text-align: center;
+}
+
+.Navbar 
+{
+  overflow: hidden;
+  background-color: #7d3232;
+}
+
+.Navbar a 
+{
+  float: left;
+  display: block;
+  color: #c4a5ab;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.Navbar a:hover 
+{
+  background-color: #bfbbbb;
+  color: #a33c58;
+}
+
+.BSCS23046_image0
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    width: 150px; 
+    height: 150px; 
+    border-radius: 50%; 
+    object-fit: cover; 
+    outline-style: solid;
+    outline-color: #f5b79d;
+}
+
+body
+{
+  background-color: lightgrey;
+}
+
+h1
+{
+   font-family: "Times New Roman", Times, serif;
+   font-size: 40px;
+   color: #c4594d;
+   margin: auto;
+   width: 50%;
+   padding: 10px;
+}
+
+.p1
+{
+   font-family: Arial, sans-serif;
+    font-size: 25px;
+    color: #914c57;
+    background-color: #FFFACD;
+    border-style: double;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+h2
+{
+   font-family: "Times New Roman", Times, serif;
+   font-size: 40px;
+   color: #6270b5;
+   margin: auto;
+   width: 50%;
+   padding: 10px;
+}
+
+.p2
+{
+   font-family: Arial, sans-serif;
+    font-size: 20px;
+    color: #51acb8;
+    border-style: solid;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
+h3
+{
+   font-family: "Times New Roman", Times, serif;
+   font-size: 40px;
+   color: #5c3780;
+   margin: auto;
+   width: 50%;
+   padding: 10px;
+}
+
+.p3
+{
+   font-family: Arial, sans-serif;
+    font-size: 20px;
+    color: #b34ae8;
+    border-style: solid;
+    margin: auto;
+    width: 50%;
+    padding: 10px;
+}
+
