@@ -38,7 +38,7 @@
     border-radius: 50%; 
     object-fit: cover; 
     outline-style: solid;
-    outline-color: #f5b79d;
+    outline-color: #705d49;
 }
 
 body
@@ -48,9 +48,9 @@ body
 
 h1
 {
-   font-family: "Times New Roman", Times, serif;
+   font-family: "Lucida Console", "Courier New", monospace;
    font-size: 40px;
-   color: #c4594d;
+   color: #4659b0;
    margin: auto;
    width: 50%;
    padding: 10px;
@@ -60,8 +60,8 @@ h1
 {
    font-family: Arial, sans-serif;
     font-size: 25px;
-    color: #914c57;
-    background-color: #FFFACD;
+    color: #421f8e;
+    background-color: #b4caed;
     border-style: double;
     margin: auto;
     width: 50%;
@@ -70,9 +70,9 @@ h1
 
 h2
 {
-   font-family: "Times New Roman", Times, serif;
+   font-family: "Lucida Console", "Courier New", monospace;
    font-size: 40px;
-   color: #6270b5;
+   color: #4e6e04;
    margin: auto;
    width: 50%;
    padding: 10px;
@@ -82,7 +82,7 @@ h2
 {
    font-family: Arial, sans-serif;
     font-size: 20px;
-    color: #51acb8;
+    color: #9cab15;
     border-style: solid;
     margin: auto;
     width: 50%;
@@ -91,9 +91,9 @@ h2
 
 h3
 {
-   font-family: "Times New Roman", Times, serif;
+   font-family: "Lucida Console", "Courier New", monospace;
    font-size: 40px;
-   color: #5c3780;
+   color: #ab6015;
    margin: auto;
    width: 50%;
    padding: 10px;
@@ -103,7 +103,7 @@ h3
 {
    font-family: Arial, sans-serif;
     font-size: 20px;
-    color: #b34ae8;
+    color: #ab8815;
     border-style: solid;
     margin: auto;
     width: 50%;
